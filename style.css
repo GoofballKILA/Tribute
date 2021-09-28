@@ -1,0 +1,23 @@
+img 
+{background-color: #000000;
+color: black;
+padding: 10px;
+border-radius: 50%;
+background-position: center;
+width: 300px;
+height: 300px;}
+
+h1{
+	font-size: 30px;
+}
+
+span
+{margin: 19px;
+font-size: 19px;
+font-stretch: 2px;}
+
+div > p{
+	font-size: 13px;
+}
+
+
