@@ -19,5 +19,25 @@ font-stretch: 2px;}
 div > p{
 	font-size: 13px;
 }
+body{
+	background-color: lightgreen;
+	padding-top: 30px;
+	padding-right: 30px;
+	padding-left: 30px;
+	padding-bottom: 30px;
+}
 
+button{
+	background-color: lightgreen;
+	border-width: 0;
+	padding: 0;
+	color: Purple;
+	font-size: 20px;
+}
+
+
+.format{
+font-family: "Times New Roman", serif;
+
+}
 
